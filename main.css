@@ -1,0 +1,13 @@
+.card{
+    border: 1px;
+    border-style: solid;
+    width:200px;
+    height: 300px;
+    font-size: 40px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.field{
+    display: grid;
+    grid-template-columns : 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+}
